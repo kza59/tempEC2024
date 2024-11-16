@@ -1,0 +1,10 @@
+prompt:
+Communication between spacecraft and headquarters is an essential tool for
+ any space agency. Create a networking based project around client to server
+ communication or peer to peer communication or any similar network
+ architecture which allows users to communicate with each other. This could be a
+ website, an app, a terminal based program written utilizing UDP/TCP in any
+ programming language, or something similar which fulfills the goal of allowing
+ users to communicate over a wide or local area network
+
+ 
